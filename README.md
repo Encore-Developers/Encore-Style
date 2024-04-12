@@ -5,7 +5,7 @@
 
 ## *Quick notes:*
 
-- Encore's visual style is player-centric. The player should be allowed to choose a color that fits with them that will represent their access across every menu and in gameplay. This means every asset will be typically desaturated when created, and then colored based on the accent color of the main player. The default accent color is <a href="url"><img src="/core/FE00E5.png" align="center" height="32" width="32" ></a>    #FE00E5 
+- Encore's visual style is player-centric. The player should be allowed to choose a color that fits with them that will represent their access across every menu and in gameplay. This means every asset will be typically desaturated when created, and then colored based on the accent color of the main player. The default accent color is <a href="url"><img src="/core/FE00E5.png" align="center" height="16" width="16" ></a>    #FE00E5 
 
 - Seasons don't fear the triangles. Neither should you. Triangles are an important aspect of Encore's identity. They should only be used for selected/hovered buttons, user profiles (emphasizing the player), and on the shell/crust of menus.
 
