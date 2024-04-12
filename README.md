@@ -7,7 +7,7 @@
 
 - Encore's visual style is player-centric. The player should be allowed to choose a color that fits with them that will represent their access across every menu and in gameplay. 
 
-- Seasons don't feat the triangles. Neither should you. Triangles are an important aspect of Encore's identity. They should only be used for selected/hovered buttons, user profiles (emphasizing the player), and on the shell/crust of menus.
+- Seasons don't fear the triangles. Neither should you. Triangles are an important aspect of Encore's identity. They should only be used for selected/hovered buttons, user profiles (emphasizing the player), and on the shell/crust of menus.
 
 - The Overshell must appear on top of every menu, except for gameplay. 
 
