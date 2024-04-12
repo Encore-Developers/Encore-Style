@@ -1,4 +1,4 @@
-<a href="url"><img src="/logo/png/encore-logo.png" align="left" height="48" width="48" ></a>    
+<a href="url"><img src="/logo/png/encore-logo.png" align="center" height="128" width="202" ></a>    
 *style documentation and assets/concepts*
  
 ### This repo will host all project files for any assets and also any rendered concepts for the sake of ease of access.
