@@ -3,9 +3,9 @@
  
 ### This repo will host all project files for any assets and also any rendered concepts for the sake of ease of access.
 
-*Quick notes:*
+## *Quick notes:*
 
-- Encore's visual style is player-centric. The player should be allowed to choose a color that fits with them that will represent their access across every menu and in gameplay. 
+- Encore's visual style is player-centric. The player should be allowed to choose a color that fits with them that will represent their access across every menu and in gameplay. This means every asset will be typically desaturated when created, and then colored based on the accent color of the main player. The default accent color is <a href="url"><img src="/core/FE00E5.png" align="center" height="32" width="32" ></a>    #FE00E5 
 
 - Seasons don't feat the triangles. Neither should you. Triangles are an important aspect of Encore's identity. They should only be used for selected/hovered buttons, user profiles (emphasizing the player), and on the shell/crust of menus.
 
@@ -13,13 +13,13 @@
 
 - Band play should be encouraged. Making band scores, stars, and other band-related things should be bigger than individual player information.
 
-- Font Hierarchy:
-  1. ### *Red Hat Display Black Italic*    
-    - Used for headers, subheaders, scores, and profile names.
-  2. ### *Rubik*     
-    - Used for all mildly important text. Bold will typically be used for song titles, bold italic for album titles, and normal for button icons. This font is also the logo font.
-  3. ### *Josefin Sans*    
-    - Splash text or unimportant secondary text. Loading screens, overshell button labels, and source icons.
+## Font Hierarchy:
+1. ### *Red Hat Display Black Italic*    
+  - Used for headers, subheaders, scores, and profile names.
+2. ### *Rubik*     
+  - Used for all mildly important text. Bold will typically be used for song titles, bold italic for album titles, and normal for button icons. This font is also the logo font.
+3. ### *Josefin Sans*    
+  - Splash text or unimportant secondary text. Loading screens, overshell button labels, and source icons.
 
 ### Credits:
 
