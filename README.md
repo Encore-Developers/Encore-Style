@@ -7,6 +7,19 @@
 
 - Encore's visual style is player-centric. The player should be allowed to choose a color that fits with them that will represent their access across every menu and in gameplay. 
 
+- Seasons don't feat the triangles. Neither should you. Triangles are an important aspect of Encore's identity. They should only be used for selected/hovered buttons, user profiles (emphasizing the player), and on the shell/crust of menus.
+
+- The Overshell must appear on top of every menu, except for gameplay. 
+
+- Band play should be encouraged. Making band scores, stars, and other band-related things should be bigger than individual player information.
+
+- Font Hierarchy:
+  1. ### *Red Hat Display Black Italic*    
+    - Used for headers, subheaders, scores, and profile names.
+  2. ### *Rubik*     
+    - Used for all mildly important text. Bold will typically be used for song titles, bold italic for album titles, and normal for button icons. This font is also the logo font.
+  3. ### *Josefin Sans*    
+    - Splash text or unimportant secondary text. Loading screens, overshell button labels, and source icons.
 
 ### Credits:
 
